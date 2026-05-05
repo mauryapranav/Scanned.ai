@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+google-generativeai
+python-dotenv
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push origin master
